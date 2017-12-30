@@ -1,3 +1,3 @@
 object HelloWorld extends App {
-  println("HelloWorld test1")
+  println("HelloWorld test2")
 }
